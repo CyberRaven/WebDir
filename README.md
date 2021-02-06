@@ -4,7 +4,7 @@
 WebDir is an automated tool which designed to find interesting files or folders (e.g: php.ini,.htaccess,.htpasswd .. etc ) <br/><br/>
 
 **Requirements:**<br/>
-download figlet for showing logo(optional)<br/>
+Download figlet for showing logo(optional)<br/>
 `sudo apt install figlet`<br/>
 Download WebDir:<br/>
 `git clone https://github.com/CyberRaven/WebDir`<br/>
