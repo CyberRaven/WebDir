@@ -6,7 +6,7 @@
 **Requirements:**<br/>
 download figlet for showing logo(optional)<br/>
 `sudo apt install figlet`<br/>
-Download WebDir 
+Download WebDir:<br/>
 `git clone https://github.com/CyberRaven/WebDir`<br/>
 
 
