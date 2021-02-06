@@ -3,8 +3,8 @@
 
 
 
-**Requirements:**
-download figlet for showing logo(optional)
+**Requirements:**<br/>
+download figlet for showing logo(optional)<br/>
 `sudo apt install figlet`
 
 
