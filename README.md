@@ -1,6 +1,16 @@
 ![Raven](https://user-images.githubusercontent.com/77549466/107131953-34108300-68ec-11eb-8bcf-3ab32f1ed741.jpg)
 
 
+
+
+**Requirements:** 
+download figlet for showing logo(optional)
+`sudo apt install figlet`
+
+
+
+
+
 DISCLAIMER:
 
 This tool was designed for those who want to test their own websites , I'm not responsible for your action!
