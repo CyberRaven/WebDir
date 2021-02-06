@@ -3,7 +3,7 @@
 
 
 
-**Requirements:** 
+**Requirements:**
 download figlet for showing logo(optional)
 `sudo apt install figlet`
 
