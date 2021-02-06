@@ -12,7 +12,7 @@ Download WebDir:<br/>
 
 ### **Usage:**<br/>
 run script by typing
-`bash WebDir.sh`
+`bash WebDir.sh`<br/>
 after running that,it should asking you for entering the website URL.enter website URL like https://example.com or https://www.example.com
 
 <br/><br/><br/>
