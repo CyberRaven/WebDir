@@ -21,6 +21,3 @@ WebDir will automatically save all the status in reports/<WEBSITE_NAME_DATE_TIME
 <br/><br/><br/>
 ### **DISCLAIMER:**<br/>
 This tool was designed for those who want to test their own websites , I'm not responsible for your action!
-
-
-
