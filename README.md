@@ -1,8 +1,8 @@
 ![Raven](https://user-images.githubusercontent.com/77549466/107131953-34108300-68ec-11eb-8bcf-3ab32f1ed741.jpg)
 
 ### **Discription:**<br/>
-WebDir is an automated tool which designed to find interesting files or folders (e.g: php.ini,.htaccess,.htpasswd .. etc )
-WebDir tool come with a built-in payload file which contains 9000 payloads <br/><br/>
+WebDir is an automated tool which designed to find interesting files or folders (e.g: php.ini,.htaccess,.htpasswd .. etc )<br/>
+WebDir tool comes with a built-in payload file which contains 9000 payloads <br/><br/>
 
 ### **Requirements:**<br/>
 Download figlet for showing logo(optional)<br/>
