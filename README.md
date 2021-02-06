@@ -6,8 +6,7 @@ This tool was designed for those who want to test their own websites , I'm not r
 
 Programmed by:
 
-github: CyberRaven
-twitter: iCyberRaven
+github: CyberRaventwitter: iCyberRaven
 
 
 for changing payload file:
