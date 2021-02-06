@@ -16,7 +16,7 @@ Run script by typing in terminal<br/>
 after running that,it should asking you for entering the website URL.enter website URL like https://example.com or https://www.example.com<br/>
 
 
-WebDir will automatically save all the status in reports\<WEBSITE_NAME_DATE_TIME>
+WebDir will automatically save all the status in reports/<WEBSITE_NAME_DATE_TIME>
 
 <br/><br/><br/>
 ### **DISCLAIMER:**<br/>
