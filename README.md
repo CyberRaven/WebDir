@@ -10,6 +10,10 @@ Download figlet for showing logo(optional)<br/>
 Download WebDir:<br/>
 `git clone https://github.com/CyberRaven/WebDir`<br/>
 
+### **Usage:**<br/>
+run script by typing
+`bash WebDir.sh`
+after running that,it should asking you for entering the website URL.enter website URL like https://example.com or https://www.example.com
 
 <br/><br/><br/>
 ### **DISCLAIMER:**<br/>
