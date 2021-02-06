@@ -20,4 +20,4 @@ you can add your own payload by changing the value of payload_file variable to "
 
 
 
-please contact me when you got any problem with it or if you have a any Inquiry
+please contact me when you got any problem with it or if you have any Inquiry
