@@ -19,6 +19,7 @@ WebDir will automatically save all the status in reports/<WEBSITE_NAME_DATE_TIME
 
 ### **Video:**<br/>
 https://img.youtube.com/vi/RyTO8f9FEqA/hqdefault.jpg
+[<img src="https://img.youtube.com/vi/RyTO8f9FEqA/maxresdefault.jpg" width="50%">](https://youtu.be/RyTO8f9FEqA)
 
 <br/><br/>
 ### **DISCLAIMER:**<br/>
