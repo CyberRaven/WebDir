@@ -11,7 +11,7 @@ Download WebDir:<br/>
 `git clone https://github.com/CyberRaven/WebDir`<br/>
 
 ### **Usage:**<br/>
-Run script by typing in terminal<br/>
+Run WebDir tool by typing in terminal<br/>
 `bash WebDir.sh`<br/>
 after running that, it should asking you to enter a website URLL like https://example.com or https://www.example.com<br/>
 
