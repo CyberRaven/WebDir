@@ -13,7 +13,7 @@ Download WebDir:<br/>
 ### **Usage:**<br/>
 Run WebDir tool by typing in terminal<br/>
 `bash WebDir.sh`<br/>
-after running that, it should asking you to enter a website URLL like https://example.com or https://www.example.com<br/>
+after running that, it should asking you to enter a website URL like https://example.com or https://www.example.com<br/>
 
 
 WebDir will automatically save all the status in reports/<WEBSITE_NAME_DATE_TIME>
