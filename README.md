@@ -18,7 +18,7 @@ after running that, it should asking you to enter a website URL like https://exa
 WebDir will automatically save all the status in reports/<WEBSITE_NAME_DATE_TIME><br/><br/>
 
 ### **Video:**<br/>
-https://www.youtube.com/watch?v=RyTO8f9FEqA
+https://img.youtube.com/vi/RyTO8f9FEqA/hqdefault.jpg
 
 <br/><br/>
 ### **DISCLAIMER:**<br/>
